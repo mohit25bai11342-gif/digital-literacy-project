@@ -2,7 +2,7 @@
 
 **Name:** Mohit Yadav  
 **Registration Number:** [25BAI11342]  
-**Branch:** [B-tech(AI/ML]  
+**Branch:** [B-tech(AI/ML)]  
 **Year:** 1st Year  (2025-26)
 **Course Code:** CSE0001  
 **Course Title:** Digital Literacy  
